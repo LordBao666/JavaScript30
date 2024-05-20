@@ -1,4 +1,10 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+# Intro
+[The Odin Project](https://www.theodinproject.com/lessons/foundations-object-basics) took me(LordBao666) to JavaScript30. I really appreciate them!!! Below is the original content of README.md.
+<br>
+<br>
+
+ 
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
